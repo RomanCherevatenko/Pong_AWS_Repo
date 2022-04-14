@@ -1,0 +1,33 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: pong-deployment
+spec:
+  selector:
+    matchLabels:
+      app: pong
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: pong
+    spec:
+      containers:
+        - name: ping
+          image: roman1844/tpong:1.0.0
+          imagePullPolicy: Always
+
+---
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: pong-service
+spec:
+  type: NodePort
+  selector:
+    app: pong
+  ports:
+    - protocol: TCP
+      port: 8080
+      targetPort: 8080

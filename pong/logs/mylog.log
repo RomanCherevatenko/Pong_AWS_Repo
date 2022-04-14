@@ -1,0 +1,18 @@
+2022-04-08 10:32:16.542  INFO 19048 --- [main] com.example.pong.PongApplicationTests    : Starting PongApplicationTests using Java 15.0.2 on EPUAKYIW0D81 with PID 19048 (started by Roman_Cherevatenko in C:\Users\Roman_Cherevatenko\Pong\pong)
+2022-04-08 10:32:16.553  INFO 19048 --- [main] com.example.pong.PongApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2022-04-08 10:32:21.929  INFO 19048 --- [main] com.example.pong.PongApplicationTests    : Started PongApplicationTests in 6.101 seconds (JVM running for 8.858)
+2022-04-08 14:04:36.381  INFO 31368 --- [main] com.example.pong.PongApplicationTests    : Starting PongApplicationTests using Java 15.0.2 on EPUAKYIW0D81 with PID 31368 (started by Roman_Cherevatenko in C:\Users\Roman_Cherevatenko\Pong\pong)
+2022-04-08 14:04:36.421  INFO 31368 --- [main] com.example.pong.PongApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2022-04-08 14:04:38.961  INFO 31368 --- [main] com.example.pong.PongApplicationTests    : Started PongApplicationTests in 3.03 seconds (JVM running for 5.112)
+2022-04-08 14:36:17.344  INFO 24684 --- [main] com.example.pong.PongApplicationTests    : Starting PongApplicationTests using Java 15.0.2 on EPUAKYIW0D81 with PID 24684 (started by Roman_Cherevatenko in C:\Users\Roman_Cherevatenko\Pong\pong)
+2022-04-08 14:36:17.346  INFO 24684 --- [main] com.example.pong.PongApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2022-04-08 14:36:19.253  INFO 24684 --- [main] com.example.pong.PongApplicationTests    : Started PongApplicationTests in 2.27 seconds (JVM running for 3.342)
+2022-04-08 15:11:04.797  INFO 24448 --- [main] com.example.pong.PongApplicationTests    : Starting PongApplicationTests using Java 15.0.2 on EPUAKYIW0D81 with PID 24448 (started by Roman_Cherevatenko in C:\Users\Roman_Cherevatenko\Pong\pong)
+2022-04-08 15:11:04.802  INFO 24448 --- [main] com.example.pong.PongApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2022-04-08 15:11:07.202  INFO 24448 --- [main] com.example.pong.PongApplicationTests    : Started PongApplicationTests in 2.92 seconds (JVM running for 4.444)
+2022-04-08 15:18:34.131  INFO 6580 --- [main] com.example.pong.PongApplicationTests    : Starting PongApplicationTests using Java 15.0.2 on EPUAKYIW0D81 with PID 6580 (started by Roman_Cherevatenko in C:\Users\Roman_Cherevatenko\Pong\pong)
+2022-04-08 15:18:34.133  INFO 6580 --- [main] com.example.pong.PongApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2022-04-08 15:18:35.757  INFO 6580 --- [main] com.example.pong.PongApplicationTests    : Started PongApplicationTests in 1.968 seconds (JVM running for 2.882)
+2022-04-08 16:12:57.709  INFO 26096 --- [main] com.example.pong.PongApplicationTests    : Starting PongApplicationTests using Java 15.0.2 on EPUAKYIW0D81 with PID 26096 (started by Roman_Cherevatenko in C:\Users\Roman_Cherevatenko\Pong\pong)
+2022-04-08 16:12:57.712  INFO 26096 --- [main] com.example.pong.PongApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2022-04-08 16:12:59.884  INFO 26096 --- [main] com.example.pong.PongApplicationTests    : Started PongApplicationTests in 2.675 seconds (JVM running for 3.855)
